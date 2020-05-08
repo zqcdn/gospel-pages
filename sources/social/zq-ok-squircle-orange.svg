@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="68" height="68" viewBox="0 0 68 68">
+  <defs>
+    <clipPath id="clip-ok-znak-orange_68x68">
+      <rect width="68" height="68"/>
+    </clipPath>
+  </defs>
+  <g id="ok-znak-orange_68x68" clip-path="url(#clip-ok-znak-orange_68x68)">
+    <rect id="矩形_12" data-name="矩形 12" width="68" height="68" rx="8" fill="#ee8208"/>
+    <g id="组_14" data-name="组 14" transform="translate(20.947 11.172)">
+      <path id="路径_60" data-name="路径 60" d="M38,205.642a4.831,4.831,0,1,1-4.832,4.832A4.837,4.837,0,0,1,38,205.642Zm0,16.5a11.668,11.668,0,1,0-11.67-11.666A11.68,11.68,0,0,0,38,222.14Z" transform="translate(-24.901 -198.803)" fill="#fff"/>
+      <path id="路径_61" data-name="路径 61" d="M42.1,241.917a21.841,21.841,0,0,0,6.776-2.807,3.419,3.419,0,0,0-3.642-5.788,14.82,14.82,0,0,1-15.711,0,3.42,3.42,0,0,0-3.643,5.788,21.878,21.878,0,0,0,6.776,2.807l-6.523,6.524a3.419,3.419,0,0,0,4.836,4.835l6.409-6.411,6.414,6.411a3.418,3.418,0,0,0,4.832-4.835L42.1,241.917Z" transform="translate(-24.285 -209.061)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

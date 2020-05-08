@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="68" height="68" viewBox="0 0 68 68">
+  <defs>
+    <clipPath id="clip-Messenger_Logo_White_RGB_68x68_">
+      <rect width="68" height="68"/>
+    </clipPath>
+  </defs>
+  <g id="Messenger_Logo_White_RGB_68x68_" data-name="Messenger_Logo_White_RGB_68x68 " clip-path="url(#clip-Messenger_Logo_White_RGB_68x68_)">
+    <path id="Messenger_Logo_White_RGB" d="M49,11C29.845,11,15,25.031,15,43.981a32.265,32.265,0,0,0,10.679,24.4,2.739,2.739,0,0,1,.917,1.936l.185,6.047A2.725,2.725,0,0,0,30.6,78.767l6.745-2.976a2.713,2.713,0,0,1,1.813-.137A36.98,36.98,0,0,0,49,76.961c19.155,0,34-14.031,34-32.981S68.155,11,49,11ZM69.414,36.373,59.426,52.217a5.1,5.1,0,0,1-7.375,1.361L44.109,47.62a2.042,2.042,0,0,0-2.456.007L30.926,55.768a1.614,1.614,0,0,1-2.34-2.148l9.988-15.844a5.1,5.1,0,0,1,7.375-1.361l7.942,5.959a2.042,2.042,0,0,0,2.456-.007l10.727-8.141A1.614,1.614,0,0,1,69.414,36.373Z" transform="translate(-15 -11)" fill="#fff" fill-rule="evenodd"/>
+  </g>
+</svg>

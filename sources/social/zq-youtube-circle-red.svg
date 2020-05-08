@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="68" height="68" viewBox="0 0 68 68">
+  <defs>
+    <clipPath id="clip-youtube_social_circle_red_68x68_">
+      <rect width="68" height="68"/>
+    </clipPath>
+  </defs>
+  <g id="youtube_social_circle_red_68x68_" data-name="youtube_social_circle_red 68x68 " clip-path="url(#clip-youtube_social_circle_red_68x68_)">
+    <g id="组_5" data-name="组 5" transform="translate(-178 -753)">
+      <circle id="椭圆_2" data-name="椭圆 2" cx="34" cy="34" r="34" transform="translate(178 753)" fill="red"/>
+      <path id="排除_2" data-name="排除 2" d="M23.124,32.583c-.145,0-14.5-.011-18.069-.973A5.812,5.812,0,0,1,.966,27.495C.011,23.906,0,16.367,0,16.291s.011-7.615.966-11.2A5.81,5.81,0,0,1,5.055.973C8.621.011,22.98,0,23.124,0s14.5.011,18.068.973a5.81,5.81,0,0,1,4.089,4.114c.955,3.589.966,11.128.966,11.2s-.011,7.615-.966,11.2a5.811,5.811,0,0,1-4.089,4.116C37.628,32.572,23.269,32.583,23.124,32.583ZM18.394,9.415V23.168l12.089-6.877L18.394,9.415Z" transform="translate(189.333 771.417)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

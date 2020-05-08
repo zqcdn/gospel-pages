@@ -1,0 +1,78 @@
+{
+  "name": "custom",
+  "desc": "站长自定义",
+  "item": {
+    "audio": {
+      "type": "text",
+      "desc": "音频地址",
+      "dataType": "object",
+      "data": {
+        "audioUrl": "https://static.kingdomsalvation.org/zh_TW/kingdom-selection/kingdom-selection-007.m4a"
+      }
+    },
+    "video": {
+      "type": "text",
+      "desc": "朗诵视频ID",
+      "dataType": "object",
+      "data": {
+        "videoID": "V17fNkfouGc"
+      }
+    },
+    "contentImg": {
+      "type": "text",
+      "desc": "内容插图",
+      "dataType": "array",
+      "data": [
+        {
+          "images": {
+            "pc":"./sources/images/content-01.jpg", 
+            "mb":"./sources/images/content-01.jpg"
+          },
+          "position": 0,
+          "align": "center",
+          "width": 560,
+          "paragraph": 2
+        },
+        {
+          "images": {
+            "pc":"./sources/images/content-01.jpg", 
+            "mb":"./sources/images/content-01.jpg"
+          },
+          "position": 0,
+          "align": "center",
+          "width": 560,
+          "paragraph": 3
+        }
+      ]
+    },
+    "footerStyle": {
+      "type": "text",
+      "desc": "网站底部排版样式",
+      "dataType": "object",
+      "data": {
+        "styleOne": true,
+        "styleTwo": false,
+        "styleThree": false,
+        "styleFour": false
+      }
+    },
+    "popTime": {
+      "type": "text",
+      "desc": "设置弹框显示时间",
+      "dataType": "object",
+      "data": {
+        "firstShow": 0.05,
+        "showAgain": 24
+      }
+    },
+    "popBgImg": {
+      "type": "text",
+      "desc": "设置弹框背景图片",
+      "dataType": "object",
+      "data": {
+        "bgImagePc": "./sources/images/tan-kuang-pc1.jpg",
+        "bgImageMb": "./sources/images/tan-kuang-mb1.jpg"
+      }
+    }
+  }
+}

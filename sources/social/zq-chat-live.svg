@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="59.001" height="61.729" viewBox="0 0 59.001 61.729">
+  <defs>
+    <filter id="联合_407" x="2.001" y="0" width="57" height="61.729" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.051"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="在线畅聊" transform="translate(-7.439 6.5)">
+    <path id="联合_407-2" data-name="联合 407" d="M2.435,25.88,3.5,21.872a13,13,0,1,1,10.025,4.117c.2.233.266.389.088.406L3.623,27.2a.926.926,0,0,1-.21.025A1.128,1.128,0,0,1,2.435,25.88Z" transform="translate(7.939 10.634)" fill="#fff" stroke="rgba(0,0,0,0)" stroke-width="1" opacity="0.4"/>
+    <g transform="matrix(1, 0, 0, 1, 7.44, -6.5)" filter="url(#联合_407)">
+      <path id="联合_407-3" data-name="联合 407" d="M28.093,42.806l-7.222-4.438q-.343.012-.689.012a19,19,0,1,1,11.935-4.215L30.477,41.9a1.729,1.729,0,0,1-1.564,1.205A1.259,1.259,0,0,1,28.093,42.806Z" transform="translate(10.32 6.12)" fill="#fff" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+    </g>
+    <g id="椭圆_1294" data-name="椭圆 1294" transform="matrix(0.848, 0.53, -0.53, 0.848, 33.998, 3.399)" fill="none" stroke="#5cba54" stroke-linecap="round" stroke-width="1" stroke-dasharray="15 50">
+      <circle cx="11" cy="11" r="11" stroke="none"/>
+      <circle cx="11" cy="11" r="10.5" fill="none"/>
+    </g>
+  </g>
+</svg>
