@@ -57,9 +57,15 @@ __自自然段落文字各自__
 
 [链接](https://www.google.com "小马视频")
 
-```php
+```javascript
 functions add(x,y){
   return x+y;
 }
 ```
 说明：宁可以使用 `add(x,y)` 函数计算两个数的和
+
+
+图片的引用
+
+![草莓好吃](https://cdn.pixabay.com/photo/2020/05/07/08/21/strawberries-5140640_960_720.jpg 草莓)
+
