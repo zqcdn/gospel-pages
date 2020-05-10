@@ -62,3 +62,4 @@ functions add(x,y){
   return x+y;
 }
 ```
+说明：宁可以使用 `add(x,y)` 函数计算两个数的和
