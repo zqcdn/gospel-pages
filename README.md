@@ -69,3 +69,7 @@ functions add(x,y){
 
 [![草莓好吃](https://cdn.pixabay.com/photo/2020/05/07/08/21/strawberries-5140640_960_720.jpg "草莓")](http://www.google.com)
 
+表格显示
+| one | two | three |
+|:------|:-----:|-------:|
+|1  |  2   |    3 | 
