@@ -56,3 +56,9 @@ __自自然段落文字各自__
 0. 房店市
 
 [链接](https://www.google.com "小马视频")
+
+```javascript
+functions add(x,y){
+  return x+y;
+}
+```
